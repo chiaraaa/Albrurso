@@ -1,0 +1,55 @@
+header{
+background-color: blue;
+height:100px;
+background-image:url(../img/header1.jpg);
+background-size:cover;
+background-position:center;
+}
+nav{
+background-color: red;
+}
+section{
+background-color: brown;
+}
+article{
+background-color: green;
+}
+header{
+background-color: blue;
+}
+aside{
+background-color: yellow;
+}
+footer{
+background-color: orange;
+}
+body, #menu{
+	margin: 0;
+	}
+#menu li{
+	display:inline;
+	margin-right:50px;
+	}
+#menu li a{
+	text-decoration: none;
+	color: white;
+	font-size: 15px;
+	}
+#menu li a:hover{
+	text-decoration: underline;
+	color: black;
+	font-size: 18px;
+	}
+#contenuti_contatti{
+	text-align:center;
+	}
+#contenuti_contatti p{
+text-align:left;
+}
+table{
+border-collapse:collapse;
+
+}
+#pulsanteback{
+	margin-bottom:10px;
+	}
